@@ -1,0 +1,40 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abbrev": "^1.1.1",
+    "balanced-match": "^1.0.2",
+    "bcryptjs": "^2.4.3",
+    "binary-extensions": "^2.2.0",
+    "brace-expansion": "^1.1.11",
+    "bytes": "^3.1.2",
+    "concat-map": "^0.0.1",
+    "content-type": "^1.0.4",
+    "cookie-parser": "^1.4.6",
+    "core-util-is": "^1.0.3",
+    "depd": "^2.0.0",
+    "destroy": "^1.2.0",
+    "ee-first": "^1.1.1",
+    "encodeurl": "^1.0.2",
+    "escape-html": "^1.0.3",
+    "etag": "^1.8.1",
+    "express": "^4.18.2",
+    "forwarded": "^0.2.0",
+    "fresh": "^0.5.2",
+    "function-bind": "^1.1.1",
+    "has": "^1.0.3",
+    "has-flag": "^3.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
